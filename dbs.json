@@ -1,3 +1,20 @@
-["628895668901",
-"6288227759401",
-"62772003493812"]
+[
+  {
+    "id": "628895668901@s.whatsapp.net",
+    "name": "Fathir",
+    "premium": true,
+    "limit": 100
+  },
+    {
+    "id": "62882277759401@s.whatsapp.net",
+    "name": "venusa",
+    "premium": true,
+    "limit": 100
+  },
+  {
+    "id": "62882003493812@s.whatsapp.net",
+    "name": "fathir",
+    "premium": true,
+    "limit": 100
+  }
+]
